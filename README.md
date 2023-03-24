@@ -20,9 +20,9 @@ The below table must contain the details of the repositories you will create, fi
 
 |  | Project's Name | Description    | GitHub's Link  |
 |:--:|:--------------:|:--------------:|:--------------:|
-| 1 |  -             |  -             | https://       |
-| 2 |  -             |  -             | https://       |
-| 3 |  -             |  -             | https://       |
+| 1 |  - Sales and Operations Project            |  - week 6 Individual project            | https://github.com/Yollam-ai/Sales-and-Operations-planning-Project.git       |
+| 2 |  -  Data Frames           |  - week 8 peer programming project            | https://github.com/Yollam-ai/week-8-peer-programming-project.git       |
+| 3 |  - NYC-Ticket-Violation-dataset            |  - Week 9 peer programming project            | https://github.com/Yollam-ai/week-9-peer-programming-project.git       |
 
 **NB**: `Do not modify` the general structure of this table above to avoid issue of evaluation, just fill the rows .
 
